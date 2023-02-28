@@ -5,7 +5,9 @@
     },
     "dependencies": {},
     "description": "A Puppeteer application to automate publishing posts to Facebook pages and groups.",
-    "devDependencies": {},
+    "devDependencies": {
+        "nodemon": "^2.0.20"
+    },
     "license": "MIT",
     "main": "index.js",
     "name": "fbauto",
