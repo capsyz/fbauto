@@ -1,0 +1,17 @@
+{
+    "author": {
+        "email": "capsyz@proton.me",
+        "name": "Ahmad Shahzad"
+    },
+    "dependencies": {},
+    "description": "A Puppeteer application to automate publishing posts to Facebook pages and groups.",
+    "devDependencies": {},
+    "license": "MIT",
+    "main": "index.js",
+    "name": "fbauto",
+    "private": true,
+    "scripts": {
+        "start": "node ."
+    },
+    "version": "0.0.1"
+}
